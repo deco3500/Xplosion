@@ -1,4 +1,4 @@
-# Project Proposal
+# DECO7350-Project Proposal
 ####Team Xplosion
 ####Project name: My News
 ####Team member:
