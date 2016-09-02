@@ -1,2 +1,3 @@
-# Xplosion-
-Project name:My News
+# Team Xplosion
+Project name: My News
+<b>Project Proposal</b>
