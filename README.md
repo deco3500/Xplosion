@@ -82,105 +82,105 @@ As for file sharing, we would like to use Google Drive, because it allows the wh
 
 ##5.  Implementation Plan: 
 ###Project Phase 1- Research and analysis
-#####Task Description:
+####Task Description:
 During this stage, we will do relevant background research to find out essential skills for journalists and analyses disadvantages and advantages of relevant applications.
-#####Key Outcome:
+####Key Outcome:
 Specific purposes and effects of our application
-*Resource:
+####Resource:
 Academic database
-#####Deadline:
+####Deadline:
 5th September
  
-####Project Phase 2 - Paper prototype design and implementation
-#####Task Description:
+###Project Phase 2 - Paper prototype design and implementation
+####Task Description:
 After the amount of research, we will start to design and develop our first prototype by papers in order to quickly test its usability.
-#####Key Outcome:
+####Key Outcome:
 A set of paper prototypes
-#####Resource:
+####Resource:
 Papers, scissors, pens
-#####Deadline:
+####Deadline:
 9th September
  
-Project Phase 3 - Paper prototype test and evaluation
-Task Description:
+###Project Phase 3 - Paper prototype test and evaluation
+####Task Description:
 For the sake of testing the application’s usability, we will find 3-5 journalism students as our testers and ask for feedback after the test.
-Key Outcome:
+####Key Outcome:
 Testing results, students feedback, usability problems
-Resource:
+####Resource:
 Questionnaire, paper prototype,  
-Deadline:
+####Deadline:
 16th September
  
-Project Phase 4-Digital prototype design and implementation-1
-Task Description:
+###Project Phase 4-Digital prototype design and implementation-1
+####Task Description:
 We will create a low-fidelity prototype by a mockup software in order to test dynamic functions and interactive approaches  
-Key Outcome:
+####Key Outcome:
 A low-fidelity prototype
-Resource:
+####Resource:
 Questionnaire, Balsamiq Mockups,  
-Deadline:
+####Deadline:
 23th September
  
-Project Phase 5 - Digital prototype test and evaluation -1
-Task Description:
+###Project Phase 5 - Digital prototype test and evaluation -1
+####Task Description:
 Just like the last test, we would need to find some journalism students randomly on campus and invite them to test our application and provide some feedback
-Key Outcome:
+####Key Outcome:
 Testing results, students feedback, usability problems
-Resource:
+####Resource:
 Questionnaire, low-fidelity prototype,  
-Deadline:
+####Deadline:
 30th September
  
-Project Phase 6 - Digital prototype design and implementation -2
-Task Description:
+###Project Phase 6 - Digital prototype design and implementation -2
+####Task Description:
 At this phase, we will add more details and features into our prototype based on the previous feedback and make a high-fidelity prototype.
-Key Outcome:
+####Key Outcome:
 A high-fidelity prototype
-Resource:
+####Resource:
 Pixate
-Deadline:
+####Deadline:
 7th October
  
-Project Phase 7 - Digital prototype test and evaluation -2
-Task Description:
+###Project Phase 7 - Digital prototype test and evaluation -2
+####Task Description:
 At this time we will ask journalism students for testing both usability and functionality and provide their feedback.
-Key Outcome:
+####Key Outcome:
 Testing results, students feedback, usability and functionality problems
-Resource:
+####Resource:
 Questionnaire, high-fidelity prototype,  
-Deadline:
+####Deadline:
 14th October  
  
-Project Phase 8 - Digital prototype iteration
-Task Description:
+###Project Phase 8 - Digital prototype iteration
+####Task Description:
 During this process, we will fix all kinds of bugs
-Key Outcome:
+####Key Outcome:
 An established high-fidelity prototype
-Resource:
+####Resource:
 Online technique tutorial, high-fidelity prototype, pixate  
-Deadline:
+####Deadline:
 20th October  
  
-Project Phase 9-prototype submit
-Task Description:
+###Project Phase 9-prototype submit
+####Task Description:
 Prototype submit
-Key Outcome:
+####Key Outcome:
 N/A
-Resource:
+####Resource:
 N/A
-Deadline:
+####Deadline:
 28th October  
 
-6. Tags:
-2 Keywords: Journalism students, New Corporation
-5 Key concepts:
+##6. Tags:
+####2 Keywords: Journalism students, New Corporation
+####5 Key concepts:
 -        Awareness
 -        CSCW
 -        Shared information spaces
 -        Identity
 -        Conversation 
-7. Conclusion:
-References:
+##7. Conclusion:
+##References:
  统一格式
 
 
