@@ -143,7 +143,7 @@ At this phase, we will add more details and features into our prototype based on
 ####Key Outcome:
 A high-fidelity prototype
 ####Resource:
-Pixate
+Pixate (a prototype-making software)
 ####Deadline:
 7th October
  
@@ -163,7 +163,7 @@ During this process, we will fix all kinds of bugs
 ####Key Outcome:
 An established high-fidelity prototype
 ####Resource:
-Online technique tutorial, high-fidelity prototype, pixate  
+Online technique tutorial, high-fidelity prototype, Pixate  
 ####Deadline:
 20th October  
  
