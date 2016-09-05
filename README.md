@@ -175,9 +175,9 @@ N/A
 
 ##6. Tags:
 ####2 Keywords: 
- #Hyperlocal Journalism#New Corporation
+ #Hyperlocal Journalism #New Corporation
 ####5 Key concepts:
- #Awareness#CSCW#Shared information spaces#Identity#Conversation 
+ #Awareness #CSCW #Shared information spaces #Identity #Conversation 
 
 ##7. Response to the feedback
 We get some feedback from the workshop session. Basically, the audiences are interested in our idea. We find that we already answered some questions in the section ‘How it works’. Those questions are “ will publishers post jobs first or will journalism students provide offers. How will timing conflicts or two competing students be handled?”, “Why would they use these articles rather than writing their own news?”, “ But my concern is, it sounds very beneficial for the students but what about the companies? ” ,“ You mentioned rewarding students who submit their articles. How does this work?” and so on. 
