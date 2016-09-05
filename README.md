@@ -2,9 +2,9 @@
 ####Team Xplosion
 ####Project name: My News
 ####Team member: 
--He Zhao-43620423 
--Junming Xu-43411649
--Xi Chen-43409981
+1. He Zhao-43620423 
+2. Junming Xu-43411649
+3. Xi Chen-43409981
 ***
 ##1. Introduction:
 In the last decade, journalism has seen the upheaval in the world, and journalism industry is also facing the challenges of globalization, technology, and economy, etc. To tackle these problems, the education of journalism at University are expected to be linked with current societies frequently. However, students who learn journalism are always lack of practical skills due to the over-focus on theory study.  This may cause a series of problems for their future career. Our application aims at bridging the gap between journalism students and news organizations. Students will act as the journalist, reporter, and editor in this application. Students will gather information from their real life, then transfer, edit and finally present the news to our application. News organizations will play the role of the evaluator; they will give students feedback about their articles. Also, they are allowed to use the news sources from students' articles. For students, they can utilize theory in the practical cases, improve their vocational skills as well as academic knowledge. For news organizations, they can take advantage of news sources to enlarge their news database, also can search and retain talented journalists for their future development.
