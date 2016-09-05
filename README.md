@@ -174,16 +174,17 @@ N/A
 28th October  
 
 ##6. Tags:
-####2 Keywords: Journalism students, New Corporation
+####2 Keywords: 
+ #Hyperlocal Journalism#New Corporation
 ####5 Key concepts:
--        Awareness
--        CSCW
--        Shared information spaces
--        Identity
--        Conversation 
-       
+ #Awareness#CSCW#Shared information spaces#Identity#Conversation 
 
-##7. Conclusion:
+##7. Response to the feedback
+We get some feedback from the workshop session. Basically, the audiences are interested in our idea. We find that we already answered some questions in the section ‘How it works’. Those questions are “ will publishers post jobs first or will journalism students provide offers. How will timing conflicts or two competing students be handled?”, “Why would they use these articles rather than writing their own news?”, “ But my concern is, it sounds very beneficial for the students but what about the companies? ” ,“ You mentioned rewarding students who submit their articles. How does this work?” and so on. 
+
+We may not present very detail information in the workshop due to time issue. However, we already form a solution to our Dilemma research. But the further improvement is necessary. Next, We will give our response to the feedback from Dekker. We would like to discuss the idea with Skey, and we already email her. We hope we could have a discussion with her soon. 
+
+##8. Conclusion:
 Overall, myNews is an application designed for journalism students in the university and aims at improving their practical skills and paying more attention to community-centered, hyperlocal journalism through the interactivity with news organizations and peers, which also achieve functions of the social platform.
 In the next step, we will do more researches on the communication methods between students and organizations. Also need to do some surveys about journalism students in UQ through questionnaires. Besides, research on hyperlocal and community-centered journalism are also necessary to support our idea. Our team will work cooperatively and efficiently to conquer difficulties we may face in the process of study and research.
 
