@@ -1,6 +1,6 @@
 # DECO7350-Project Proposal
 ####Team Xplosion
-####Project name: My News
+####Project name: myNews
 ####Team member: 
 - He Zhao-43620423 
 - Junming Xu-43411649
