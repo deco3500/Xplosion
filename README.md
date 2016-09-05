@@ -4,67 +4,69 @@
 ####Team member: He Zhao-43620423, Junming Xu-43411649, Xi Chen-43409981
 ***
 ##1. Introduction:
+In the last decade, journalism has seen the upheaval in the world, and journalism industry is also facing the challenges of globalization, technology, and economy, etc. To tackle these problems, the education of journalism at University are expected to be linked with current societies frequently. However, students who learn journalism are always lack of practical skills due to the over-focus on theory study.  This may cause a series of problems for their future career. Our application aims at bridging the gap between journalism students and news organizations. Students will act as the journalist, reporter, and editor in this application. Students will gather information from their real life, then transfer, edit and finally present the news to our application. News organizations will play the role of the evaluator; they will give students feedback about their articles. Also, they are allowed to use the news sources from students' articles. For students, they can utilize theory in the practical cases, improve their vocational skills as well as academic knowledge. For news organizations, they can take advantage of news sources to enlarge their news database, also can search and retain talented journalists for their future development.
+
+In this paper, we will firstly define the concept of our idea and how it works in the first and second part. In the third part, we will introduce our team and the responsibility of every team member. Next,  we will illustrate how we communicate with each other and draw our project plan. 
+
 ##2. Concept descrption:
-###2.1. Idea brief:
-MyNews is an application, which designed for the journalism students and news corporation. This application bridges the gap between the journalism students and news corporation.
+###2.1 Dilemma research
+In general, theory study is always disappointing for students who find abstract reasoning unnatural to them (de Burgh, 2003). When students combine academic knowledge and practical applications in the study process, this can help overcome barriers to the academic. "Principles must always be seen cashed in these instances, but instances must themselves be seen as cases to which principles are relevant." (Hamlyn, quoted in Woods and Barrow, 1988:59) Which means the evaluation of principles implies in how they are to be applied. Students in the university, the higher education, are expected to use practical skills to express academic knowledge and creative ideas. When students act a journalist, editor, reporter, or presenter in this application, they play the real role in real life, not simulate. 
 
-Firstly,  It could provide the journalism students with a chance to approach the news companies. Moreover, it allows students to develop their professional skills through practising in this application.  Furthermore, the students could gain feedback from professional people working in the news companies. On the other hand, it could give the news companies an opportunity to explore potential reporters or journalist at the various universities. Additionally, the companies also could enrich their news source.  
+In the modern society, journalism is expected to focus on local or "hyperlocal" journalism. Compare with nationwide and worldwide journalism; hyperlocal journalism more focuses on the news happens on an extremely small, local scale, Which also can be called community-centered journalism. These years, many mainstream news organizations are discovering the need to work harder at connecting with audiences; the assumed relationship with the public (Franklin & Mensing, 2011). University faculties and university communities are suitable for journalism students to be a hyperlocal journalist, also provide them a chance to understand their relationships within their university community and surrounding environments. In the community, students are expected to collaborate with interested members of this community, which would strengthen their understanding of how communities work and of what people need and want from journalism (Franklin & Mensing, 2011). With the assistant of myNews, students are allowed to create their discussion group and add friends; it could help them to develop more effective practices for linking, sharing, sourcing, and working in social media.
 
-Secondly, this application is similar to the social platform as well. There is a timeline recorded the successful publishing news for the students. And friends could leave a comment each other. 
+###2.2. Idea brief:
+myNews is an application, which designed for fixed the gap between journalism students and news corporations. It could not only provide the journalism students with a chance to approach the news companies, and it also allows students to develop their professional skills through practicing in this application. Furthermore, the students could gain feedback from professional people working in the news companies. On the other hand, the application gives news companies an opportunity to explore potential journalists at various universities, and the companies also could enrich their news source via the application.  
 
-Thirdly, users also could use this application to browse the news. Thus, the students can also learn from the other students, because the news is from the students around the world. 
-###2.2. Target audience:
-Obviously, there are two main target user groups of this application - Jurnalism students and News corporation. 
-###2.3. Purpose:
-###2.4. Team Goals:
-####Functional:
-Our basic goal is to build a functional application and ensure every feature and workflow function well. To achieve this goal, we will put more efforts on the design stage to avoid design bugs, which if exist will cost more time to fix after all the programming work is done. Also, we will leave at least a week for testing before releasing the project.
+Apart from that, users also can regard the application as a news aggregator or a social platform in which students can read news, add friends, edit the profile, leave a comment and even learn skills after read others’ news. What’s more, the application has a timeline record the published news for students, which could be a personal portfolio for job hunting. 
+
+###2.3. How it works
+There are two versions of this application. One is for the students; another one is for the news organizations. Firstly, users need to register the application by authentic information. This means they need to input their real name, student ID, school name, company name and so on.
  
-####User-friendly Interface:
-Interface will give the user the first impression of the application, which is quite important to the decision that if they are willing to use it at the first place. Moreover, a neat interface will help to create a good mood and user experience while the user are struggling solving the puzzles.
+As for the student's version, students could edit their profile and add friends. Obviously, the students can write and post articles, videos they edited, pictures they shot to this application. They could browse others’ news that successfully published by news companies and leave a comment for each other. Furthermore, that news will be sent to a news pool - a database so that the companies could search or browse the news from the news pool. However, there will be a censorship and monitor regime to prohibit the violent and pornographic content. Besides, it also can check article similarity to avoid plagiarism when students submit the news draft. What’s worth to mentioning is that the students can participate in the activity held by the news companies to challenge themselves and win some reward.  
  
-####Good Performance:
-We expect every team member contributes their best performance as for this type of application, we have to ensure each functions running smoothly. Besides, we are expected to make sure at least 10 people could access and use our application at the same time within a proper response time.
-###2.5. Conceptual model
-Firstly, users need to set up through a real name system. This means they need to input their real name, student ID, school name, company name and so on. Then, they need to select their identity. If the user is a student, the application will lead the user to the student version. If the user is the news corporation, the application will guide the user to the corporation version. 
+As for news corporation’s perspective, they could browse the news in the news pool, and decide which news could be re-edited and published. If they hope to use students’ news or publish them, the company need to inform that student via our application and mark his name on the published news. Besides, if the news is really valuable, the company should supply the student with a financial reward. The selected news will appear on the timeline in the history category. Also, companies need to give students feedback, if they are interested or feel impressive with the news. Furthermore, companies are able to post activities by this application. They could give a definite theme to students and get the information they want. As a result, they can find the potential reporter or journalist for their organization.
 
-From the student's version perspective, students could edit their profile and send requests to add friends. Additionally, they could browse news feeds that published successfully by the companies. They could leave a comment below the news as well. Furthermore, the students could take or upload a picture or a video with a description and send it to this application. Those data will be sent to a news pool - a database so that the companies could search or browse the news from the news pool. Finally, the students can participate the activity hold by the news companies; the activity is not compulsory. 
+###2.4. Purpose:
+The project concept aims to design an application that bridges the gap between journalism students and news corporations. As for students, the application provides a chance for them communicating with news companies, and training various specialized skills. On the other side, news companies can enrich their news sources and reserve journalism talents by using this application.
 
-From the news corporation perspective, the news companies could browse the news in the news pool, and decide which news could be re-edited and published. The companies also could enrich their news source by searching in the news pool. That news published successfully will appear on the timeline of the author in their homepage. Also, the companies need to give students feedback helping them develop. Furthermore, the companies could hold activities by this application. They could give a specific theme to students and get the information they want. As a result, they can find the potential reporter or journalist. 
+###2.5. Target audience:
+There are two main target user groups of this application - Journalism students and News corporation. 
 
-For security, they will be a censorship and monitoring regime to check the content. Besides, it also can check article similarity to avoid plagiarism.  
-
-The article needs to be added keyword tags in order to easy searching, and there are also some categories like political, life, sport and so on to classify the news. 
-
-If serval companies select the same topic but from different students, what should we do?
- Those articles can be published because the students can compare their own article and others. 
-If several companies select the same articles at the same time, what should we do?
- May the first comes, the first service (can continue to come up with other solutions). 
+###2.6. Similarity and difference
+After our research, we didn’t find any existing application that is similar with ours. There is a combination between online education and social media. Because we take advantage of both their interaction methods, on the one hand, our application looks like an online education platform in which students upload their work to the cloud and get online feedback. On the other hand, the application applied the concept of social media which allow users to send, share, forward and comment various news without boundary. Besides, we believe that it’s a novel way to build a direct connection between journalism students and the industry. 
 
 ##3. Team:
-####Team Members & Roles:
-He Zhao-Product Manager who will lead the team and manage the project. Besides, he will be responsible for logistics. E.g. writing and collating meeting minutes; borrowing equipment; contacting with parities, etc. 
-Xi Chen-UI/UX Designer. She will mainly focus on interface design and usability optimization 
-Junming Xu-Project Programmer who will take charge of the whole technique section of the project. He will decide which programming language would be used for build our application and fix all kinds of functional issues.
+###3.1.Team Members & Roles:
+- He Zhao-Product Manager who will lead the team and manage the project. Besides, he will be responsible for logistics. E.g. writing and collating meeting minutes; borrowing equipment; contacting with parities, etc. 
+- Xi Chen-UI/UX Designer. She will mainly focus on interface design and usability optimization 
+- Junming Xu-Project Programmer who will take charge of the whole technique section of the project. He will decide which programming language would be used for build our application and fix all kinds of functional issues.
 
-####Decision Making:
-#####UI:
+###3.2. Team Goals:
+####Functional
+Our basic goal is to build a functional application and ensure every feature and workflow function well. To achieve this goal, we will put more efforts on the design stage to avoid design bugs, which if exist will cost more time to fix after all the programming work is done. Also, we will leave at least a week for testing before releasing the project.
+####User-friendly Interface
+Interface will give the user the first impression of the application, which is quite important to the decision that if they are willing to use it at the first place. Moreover, a neat interface will help to create a good mood and user experience while the user are struggling solving the puzzles.
+####Good Performance
+We expect every team member contributes their best performance as for this type of application, we have to ensure each function running smoothly. In addition, we are expected to make sure at least ten people could access and use our application at the same time within a proper response time.
+
+###3.3. Decision Making:
+####UI:
 The UI design idea will be generated by the designer and other team members should also raise their ideas to improve the project. The final decision of UI design should be approved by product manager.
 
-#####Technical solution:
+####Technical solution:
 Product manager proposes performance requirements in product level. The web developers offer specific technical path, and illustrate the reason. After determining all required materials and information, we will work on a small demo based on that solution, so the product manager can make a final decision on product development.
 
-#####Other issues:
+####Other issues:
 If anyone has problems, they should raise questions in the group meeting or any group communication channels such as Facebook, Group Chat machine and Email. The product manager has the responsibility to make final decision based on results of team discussions.
 
-####Task Division:
+###3.4. Task Division:
 Tasks will be allocated fairly through group discussion and will be allocated based on the strengths of each member. Group members are expected to contribute their best efforts on the project and deliver tasks on time. If a team member is unable to finish tasks, he/she should contact the group and ask other group members to help. For a situation that a team member is consistently unable to complete their tasks, the task will be redistributed amongst other team members and a formal notice will be made to tutors/course co-ordinator.
 
-####Dispute Resolution:
-#####Group Member Dropout
+###3.5. Dispute Resolution:
+####Group Member Dropout
 In the event that a group member leaves the group, their workload will be redistributed between remaining group members. The redistribution should attempt to be fair, but also take the skills and commitments of remaining members into consideration.
 
-#####Group Conflicts and Solution
+####Group Conflicts and Solution
 In the event of significant conflicts between group members, any disputes will be resolved by a majority vote between all group members. If no majority consensus can be reached, then the team can send an email to the course coordinator to solve this issue.
 
 ##4. Communications:
@@ -182,5 +184,13 @@ N/A
        
 
 ##7. Conclusion:
+Overall, myNews is an application designed for journalism students in the university and aims at improving their practical skills and paying more attention to community-centered, hyperlocal journalism through the interactivity with news organizations and peers, which also achieve functions of the social platform.
+In the next step, we will do more researches on the communication methods between students and organizations. Also need to do some surveys about journalism students in UQ through questionnaires. Besides, research on hyperlocal and community-centered journalism are also necessary to support our idea. Our team will work cooperatively and efficiently to conquer difficulties we may face in the process of study and research.
+
+
 ##References:
-统一格式
+de Burgh, H. (2003). Skills are not enough: The case for journalism as an academic discipline. Journalism, 4(1), 95-112
+
+Franklin, B. & Mensing, D. (2011). Journalism education, training and employment. New York: Routledge.
+
+Rogers, T. (2016). What is Hyperlocal Journalism? Retrived from September 5, 2016, http://journalism.about.com/od/citizenjournalism/a/hyperlocal.htm
