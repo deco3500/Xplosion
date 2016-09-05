@@ -188,7 +188,6 @@ We may not present very detail information in the workshop due to time issue. Ho
 Overall, myNews is an application designed for journalism students in the university and aims at improving their practical skills and paying more attention to community-centered, hyperlocal journalism through the interactivity with news organizations and peers, which also achieve functions of the social platform.
 In the next step, we will do more researches on the communication methods between students and organizations. Also need to do some surveys about journalism students in UQ through questionnaires. Besides, research on hyperlocal and community-centered journalism are also necessary to support our idea. Our team will work cooperatively and efficiently to conquer difficulties we may face in the process of study and research.
 
-
 ##References:
 de Burgh, H. (2003). Skills are not enough: The case for journalism as an academic discipline. Journalism, 4(1), 95-112
 
