@@ -1,6 +1,6 @@
 According to the project proposal, we design our first prototype with "Balsamiq Mockup", and we also link all pages and buttons in this mockup. 
 There are two versions (students & enterprise) in this mockup. Two buttons link to the different login or signup page. Both students and companies staff must signup with real name and institution. 
-![Alt Text][[https://github.com/deco3500/Xplosion/raw/master/demo1/homepage.JPG| height = 200px]]
+[[https://github.com/deco3500/Xplosion/raw/master/demo1/homepage.JPG| height = 200px]]
 
 Both versions have a news scan page, which displays different content. In student version, what students can see from news scan page is other users' articles. Meanwhile, journalists can browse all posted news by other colleagues or students. 
 
