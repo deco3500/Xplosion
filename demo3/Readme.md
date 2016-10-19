@@ -7,7 +7,7 @@ According to feedback from Dr. Skey, we do some changes about our prototype.
 ![Alt Text](https://github.com/deco3500/Xplosion/raw/master/demo3/send message.png)
 .update personal page of enterprise user
   . Your Activity
-  ![Alt Text](https://github.com/deco3500/Xplosion/raw/master/demo3/activity_enterprise.png)
+  ![Alt Text](https://github.com/deco3500/Xplosion/raw/master/demo3/acivity_enterprise.png)
   . Timeline
   ![Alt Text](https://github.com/deco3500/Xplosion/raw/master/demo3/timeline_enterprise.png)
   . Messages Notification
