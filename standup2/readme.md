@@ -29,9 +29,12 @@ Fourthly, the journalist could decide which article could be published and also 
 Here are some articles we have read from last stands up. Some of them are helpful.
 				
 					
-WHY JOURNALISTS DESERVE LOW PAY 
-Need Finding Tools 
-Interaction Design - Beyond Human-Computer Interaction
+WHY JOURNALISTS DESERVE LOW PAY  
+
+Need Finding Tools   
+
+Interaction Design - Beyond Human-Computer Interaction  
+
 Personas and user centered design How can personas benefit product design process
 
 				
