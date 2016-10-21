@@ -12,7 +12,8 @@ Feh gave us lots of useful feedback. One good point is to set a testing task flo
 It is because that can show the core functionality to the users. Another good point is the friends should be collaborative, and we may present this relationship in our product.   
 Lastly, do not show too many features. 
 
-Here is a small plan before next stand up. 
+Here is a small plan before next stand up.   
+
 1. Consider the feedback and develop a new and higher fidelity prototype by using other software such as Wix. 
 (1) The new prototype should show the collaborative feature.
 (2) The interface should be more logical and straightforward enough. 
