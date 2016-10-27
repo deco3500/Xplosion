@@ -18,4 +18,6 @@ According to the result,
 4. 80% students believe that journalists who have already worked in a company could help them and give useful feedback to students articles.  
 ![Alt Text](https://github.com/deco3500/Xplosion/raw/master/Questionnaire/question4.png)  
 
+In conclusion, the value of "myNews" is improtant for journalism students needs. Although there are totally 10 users reply the questionnaire, we believe "myNews" could help journalisim students improve their ability, no matter in career or study.
+
 
