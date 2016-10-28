@@ -1,59 +1,5 @@
-user 1: 
-1. UI is similar with twitter，
-2：friends page: why use distance and friends net style?
-3：My Work page: content confusing
-取消achievement，内容全部添加到My Work
-4: My work page: “draft” “published” “submitted” needs to be distinguished
-5：Home page: should be more attracitve
-6：Home page: refine “chat” function, “forward to friends list”
-7:   Acticvity 作为吸引双方用户的功能 需要实现。
-
-
-
-
-user2:
-1. 朋友推荐 Add me 可以修改为 Add
-2. 发布文章后会发布给谁看呢？publish到什么分类， tag不明显
-3. My Work 里面应该包括 achievement
-4. Enterprise 注册信息 status 改为 position
-5.News Sources, 里面显示内容问题 是否加入筛选机制， tag分类问题
-6.Favorite news， 需要achieve
-7.Activity 需要更改成别的词，比如征稿
-8.发布文章 功能 需要achieve
-9.朋友分栏需要伸缩功能
-
-
-user3：
-1. Students: 为什么有些字体大小不同（是否level高）
-2. 距离我远近有什么意思（ 是否关系近 还是rewards system）
-3. click name 后是否显示他所有已经posted or published的文章
-4. my work 里面的通知 是否显示为专业人士给的feedback， cllick后是什么界面
-5. 个人level 怎样提升 （post 还是published number）
-6. Home 页，post new news 按钮引起误导， 建议放在个人界面
-7. Home, 可能出现更新delay的情况，所以侧栏的online or offline friends 是否有必要出现
-8. Enterprise：是否需要标志来区分朋友分类（students or staff）
-9. News source 需要和favorite news整合
-10.Home 页 概念修改， 筛选完类别后，直接显示like or dislike
-11.
-
-
-user4：
-1.Friends 页面 名字大小 还有距离 confused （建议用虚线链接然后标注距离）
-2.Achievement 整合到 My Work
-3.Activity 需要实现
-4.排版问题 navbar 需要从新排版
-5.Post new news 按钮的位置，是否添加到导航栏
-6.Enterprise：search bar问题 添加搜索用户或者文章
-7.Home 是否要整合activity
-8.Home 是否要和 News source 整合
-9. 是否在企业界面区分朋友的身份
-10. 建议有转发或share的功能
-11. chat 窗口可能不是必要的
-
-
-
 This is the second time user testing, we've invited 5 students from school of EAIT and Communication,
-and we held the testing in Room 209 Building 78. The prototype tested this time is based on demo 3.  
+and we held the testing in Room 209 Building 78. The prototype tested this time is based on demo 3 and 4.  
 After two hours testing session, we received some useful feedback listed below:
 
 students verison:
@@ -67,24 +13,9 @@ students verison:
 7. Activity page: should achieve.
 
 enterprise version:
+
 1.News source: should be cancled, because it causes confusing.
 2.Home page: should be the rating page for quick scan.
-3.Favorite news: 
+3.Favorite news: for saving the articles that user liked in the rating page.
 
-Evaluation:
-Students:  
-1. post news button 去掉
-2. Filter 去掉
-3. 朋友侧边栏 除在Friends 里面正常显示，其他都做成缩进
-4. 距离近就是联系频繁，字体大就是level高
-5. My work 里面 有 published 和 unpublished （draft，posted->submitted）
-6.My work 每一个新闻下面的comment
-   1）posted 下面的comment来自新闻人，学生用户不能评论
-   2）published 下面的comment来自朋友，新闻人，关注你的人
-7.Acivity 需要实现 （social function）
-Enterprise
-1. News source 去掉
-2. Home  直接进入快速筛选机制
-3. favorite news 看保存过的喜欢的article
-4. Friend 参考学生版本的
-5. Activity，（mine and others）
+According the feedback, we'll design a hi-fi prototype which will make a huge update based on those feedback.
