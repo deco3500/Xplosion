@@ -1,10 +1,11 @@
-user 1: 页面更加像twitter，
-        2：friends: distance
-        3：My Work is confused
+user 1: 
+1. UI is similar with twitter，
+2：friends page: why use distance and friends net style?
+3：My Work page: content confusing
 取消achievement，内容全部添加到My Work
-        4:   My work 里面的 “draft” “published” “submitted” 用词问题
-5：Home 页面要简洁，主要display优秀的文章
-6：Home 界面添加 “chat” “forward to your friends”
+4: My work page: “draft” “published” “submitted” needs to be distinguished
+5：Home page: should be more attracitve
+6：Home page: refine “chat” function, “forward to friends list”
 7:   Acticvity 作为吸引双方用户的功能 需要实现。
 
 
@@ -51,11 +52,27 @@ user4：
 
 
 
+This is the second time user testing, we've invited 5 students from school of EAIT and Communication,
+and we held the testing in Room 209 Building 78. The prototype tested this time is based on demo 3.  
+After two hours testing session, we received some useful feedback listed below:
 
+students verison:
 
+1. Homepage should be more attractive(color and functions).
+2. Homepage "post news" button should be cancled, it may cause confusing for users.
+3. Homepage filter: should be changed to dropdown list, save space for reading.
+4. Homepage friends list: should be hidden in normal type, and shown when mouse hover its area.
+5. Friends page: Net style is good but need explainations.
+6. My work and Achievement page: combine, and create category for "published", "unpublished(draft, submitted)".
+7. Activity page: should achieve.
+
+enterprise version:
+1.News source: should be cancled, because it causes confusing.
+2.Home page: should be the rating page for quick scan.
+3.Favorite news: 
 
 Evaluation:
-Students:
+Students:  
 1. post news button 去掉
 2. Filter 去掉
 3. 朋友侧边栏 除在Friends 里面正常显示，其他都做成缩进
